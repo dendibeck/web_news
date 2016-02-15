@@ -5,6 +5,6 @@
 </head>
 <body>
 Hello i'm home, I can be synchronized
-
+and I can be  shared
 </body>
 </html>
