@@ -32,6 +32,9 @@ angular.module('appRoutes', ['ngRoute'])
 		.when('/post1', {
 			templateUrl: 'app/views/pages/articles/post1.html',
 		})
+		.when('/login', {
+			templateUrl: 'app/views/pages/login.html',
+		})
 		.otherwise({
         	redirectTo: '/home'
       	});
